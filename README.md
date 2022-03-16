@@ -1,3 +1,3 @@
 # odin-recipes
 
-This project is to build my HTML chops :)
+This project is to re-build my HTML chops :)
